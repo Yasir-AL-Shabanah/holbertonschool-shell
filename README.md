@@ -1,2 +1,1 @@
-# shell Basics
-learning shell
+# Holberton Shell repo
