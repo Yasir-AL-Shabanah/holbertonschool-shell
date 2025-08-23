@@ -1,2 +1,3 @@
 #!/bin/bash
+# print the 3rd line of the file 'iacta'
 head -n 3 iacta | tail -n 1
